@@ -1,4 +1,5 @@
 import Header from "@/components/global/header"
+import config from "@/lib/config"
 
 type Props = {
     children: React.ReactNode
